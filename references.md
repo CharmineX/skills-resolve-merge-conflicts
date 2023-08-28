@@ -1,3 +1,2 @@
-# References
-
-* octocat 1 😈
+# Leadership
+Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
